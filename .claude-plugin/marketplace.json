@@ -11,7 +11,7 @@
   "plugins": [
     {
       "name": "codebase-documenter",
-      "source": ".",
+      "source": "./",
       "description": "Generate and maintain comprehensive codebase documentation optimized for AI consumption",
       "version": "1.0.0",
       "keywords": ["documentation", "api-docs", "ai-documentation", "codebase"],
