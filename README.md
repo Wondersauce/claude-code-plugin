@@ -7,7 +7,9 @@ A Claude Code plugin that generates and maintains comprehensive codebase documen
 Inside Claude Code, run:
 
 ```
-/plugin install Wondersauce/claude-code-documenter-plugin
+/plugin marketplace add wondersauce/claude-code-plugin
+ 
+/plugin install ws-codebase-documenter@wondersauce-marketplace
 ```
 
 ## Usage
@@ -15,7 +17,7 @@ Inside Claude Code, run:
 Once installed, ask Claude Code to document your codebase:
 
 ```
-document this codebase
+/
 ```
 
 Or for incremental updates after code changes:
