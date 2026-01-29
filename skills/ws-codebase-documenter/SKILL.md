@@ -1,5 +1,5 @@
 ---
-name: codebase-documenter
+name: ws-codebase-documenter
 description: Generate and maintain comprehensive codebase documentation optimized for AI consumption. Optionally syncs to a Docusaurus site. Use when asked to document a codebase, generate API documentation, create docs for AI agents, maintain documentation after code changes, or sync docs to Docusaurus. Supports Node.js/TypeScript, Python, Go, Rust, .NET, Java, and PHP projects.
 ---
 
