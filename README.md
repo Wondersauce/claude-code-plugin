@@ -17,7 +17,7 @@ Inside Claude Code, run:
 Once installed, ask Claude Code to document your codebase:
 
 ```
-/
+/ws-codebase-documenter
 ```
 
 Or for incremental updates after code changes:
