@@ -1,0 +1,21 @@
+{
+  "name": "codebase-documenter-marketplace",
+  "owner": {
+    "name": "Wondersauce",
+    "email": "marc@wondersauce.com"
+  },
+  "metadata": {
+    "description": "Codebase documentation tools for Claude Code",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "codebase-documenter",
+      "source": ".",
+      "description": "Generate and maintain comprehensive codebase documentation optimized for AI consumption",
+      "version": "1.0.0",
+      "keywords": ["documentation", "api-docs", "ai-documentation", "codebase"],
+      "license": "MIT"
+    }
+  ]
+}
